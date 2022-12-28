@@ -89,7 +89,9 @@ Here's how to do that.
 1. Download the code from this repositiory. 
 2. Open the .xcodeproj file from this repo in XCode. 
 3. Configure the Signing & Capabilities, change the Team to your identifier
-4. Build the App
+4. Build the App, the play button in the top left corner of XCode.
+
+Good luck! I hope you like my app!
 
 
 
