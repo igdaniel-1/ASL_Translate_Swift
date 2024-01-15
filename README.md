@@ -11,7 +11,6 @@ performed by a Hand Classification Machine Learning Model which maps detected ha
 The translation cycle is completed as the resultant sign is then displayed to the user. 
 
 For a video demo of the application, click [here](https://drive.google.com/file/d/10kOkRgcT26_jOkyaPyjwuHE8A-DUPnL7/view).
-Plain text link: https://drive.google.com/file/d/10kOkRgcT26_jOkyaPyjwuHE8A-DUPnL7/view .
 
 ### Introduction
 Currently, there is no readily available, free American Sign Language (ASL) translation service or technology. 
