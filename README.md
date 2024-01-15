@@ -10,6 +10,9 @@ communicate with non-ASL-speakers. This is facilitated using an interface which 
 performed by a Hand Classification Machine Learning Model which maps detected hands to a prediction of their intended sign. 
 The translation cycle is completed as the resultant sign is then displayed to the user. 
 
+For a video demo of the application, click [here](https://drive.google.com/file/d/10kOkRgcT26_jOkyaPyjwuHE8A-DUPnL7/view).
+Plain text link: https://drive.google.com/file/d/10kOkRgcT26_jOkyaPyjwuHE8A-DUPnL7/view .
+
 ### Introduction
 Currently, there is no readily available, free American Sign Language (ASL) translation service or technology. 
 When you Google “Sign language translator to English," the first page of results has no relevance. Among the advertisements for sign 
