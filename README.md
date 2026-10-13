@@ -89,9 +89,12 @@ Soon, this app will be available for download. In the mean time, you're welcome 
 Here's how to do that.
 
 1. Download the code from this repositiory. 
-2. Open the .xcodeproj file from this repo in XCode. 
-3. Configure the Signing & Capabilities, change the Team to your identifier
-4. Build the App, the play button in the top left corner of XCode.
+2. Open the .xcodeproj file from this repo in XCode.
+3. Open the project directory in the "Project Navigator" (the viewport for the files on the left side of the screen).
+4. Underneath the section that says 'Project', find the section that says 'Targets' and select the Application 'Guess My Exercise'.
+5. At the top navigation bar, select 'Signing and Capabilities' and look for the 'Team' dropdown menu.
+6. Add your AppleID account as the Team. You may need to get a developer certificate. Check official Apple documentation for the latest way to obtain a developer certificate.
+8. Build the App by pressing the triangular play button in the top left corner of XCode. If errors persist, the iOS simulation version on your desktop may not be congruent with that of the iPhone you're testing.
 
 Good luck! I hope you like my app!
 
