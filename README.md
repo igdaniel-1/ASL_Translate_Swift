@@ -6,7 +6,7 @@ v3 of this app is coming to TestFlight for beta testing and user training soon!
 
 Keep your eye on this page as well as my [blog](https://igdaniel-1.github.io/pages/blog.html) for updates!
 
-Here's how to do test my app in the mean time.
+Here's how to test my app in the mean time...
 #### Download and Configuration
 1. Download the code from this repositiory. 
 2. Open the .xcodeproj file from this repo in XCode.
