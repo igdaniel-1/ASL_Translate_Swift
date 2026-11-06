@@ -1,6 +1,10 @@
 # ASL_Translate_Swift
 A Sign Language translator app built in Swift
 
+## Video Demo
+[![Watch the demo](https://youtu.be/vt5fpE0bzSY)](https://drive.google.com/file/d/1rAt8noJlOjkZhd_CKiujaat4O3Tz4XtV/preview)
+
+
 ## How to Use
 v3 of this app is coming to TestFlight for beta testing and user training soon!
 
