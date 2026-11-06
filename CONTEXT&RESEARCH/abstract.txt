@@ -1,0 +1,8 @@
+### Abstract
+
+The focus of this project is the design of an iOS Application that translates American Sign Language (ASL) hand signs into English text. 
+This is a relevant research field as there is no existing, publicly-available
+technology that translates ASL to English. With this app, deaf or hard-of-hearing people who communicate using ASL will be able to 
+communicate with non-ASL-speakers. This is facilitated using an interface which detects ASL signs using the user's camera. This translation is 
+performed by a Hand Classification Machine Learning Model which maps detected hands to a prediction of their intended sign. 
+The translation cycle is completed as the resultant sign is then displayed to the user. 
